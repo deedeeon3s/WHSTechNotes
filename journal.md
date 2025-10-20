@@ -13,3 +13,10 @@ it started from a viral meme or lebron joke shared widely online. Perhaps it ori
 As school leader, my technology policy would focus on promoting responsible use, fostering critical thinking, and ensuring a focused learning environment. Cell phones would be stored in designated classroom caddies during instructional time to minimize distractions and encourage social interaction, with exceptions for teacher-directed activities and emergencies. School-issued Chromebooks would be for academic purposes only, with robust web filtering to block non-educational games and inappropriate content.
 # October 14, 2025 
 The prompt i made was about how im suppose to teach kids about domain and range is algebra 1 honors because why not.  Canva interpreted it by making the quiz and teaching me about it myself as a highschool student. The quiz part of canva ai worked the best because i dont even know domain and range for real an i got 2 wrong out of 3. How i could  improve the quiz canva made is by making it more understanding like instead of bold words make it like into words understandable for incoming high schoolers. Canva ai helped very well but at the end of the day ai is wrong most of the time.
+# October 20, 2025
+
+| Name    |  Class | Seat |
+| :------- :---- | :--- |
+| Franklin | second  | 91A |
+| Hardeep  | third | 61f  |
+| Marla    | first  | 35b  |
