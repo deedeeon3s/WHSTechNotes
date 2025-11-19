@@ -20,3 +20,13 @@ The prompt i made was about how im suppose to teach kids about domain and range 
 | Franklin | second  | 91A |
 | Hardeep  | third | 61f  |
 | Marla    | first  | 35b  |
+
+# november 3, 2025
+1. What’s the problem? Why is it a big deal if SNAP runs out of funding? Who might be most affected?
+The problem was a lapse in federal funding for the Supplemental Nutrition Assistance Program (SNAP) due to the government shutdown that began on October 1, 2025. It is a big deal because SNAP is the nation's largest anti-hunger program, providing essential aid to over 42 million Americans. The people most affected are some of the most vulnerable populations in the U.S., with approximately 70% of participants being children, the elderly, or people with disabilities. Most SNAP households have incomes at or below the federal poverty level, and for many, SNAP is their only form of direct assistance for food. every $1 in SNAP benefits generates an estimated $1.50 in economic activity. Local food banks and charities, though they step up, are guaranteed to be inadequate to replace the federal government's $8 billion in monthly aid.
+2. How could technology help?
+Resource Locators: Apps and websites can provide a regularly updated, centralized map or directory of local food banks, pantries, and free meal programs, including hours of operation and available services.Benefit Management: Tools like the Propel app can help users manage their EBT balances, check for payment updates during funding uncertainty, and find information on benefit renewal requirements.Navigation and Access: Websites and helplines, like the national 211 service, can provide information and refer people to various aid programs beyond just food assistance.Online Applications: Simplifying the application and recertification processes for benefits online could reduce administrative burdens and ensure people get help more quickly.
+3. What challenges might exist?
+Digital Divide: Not everyone has access to a reliable internet connection, a smartphone, or a computer.Usability and Literacy: Some individuals, particularly the elderly, may face barriers related to tech literacy or the complexity of online systems.Privacy and Trust: Users may have concerns about their personal data and privacy when using third-party apps or websites to manage sensitive information.Information Overload/Accuracy: During a crisis, information can be chaotic, and ensuring that online resources are accurate and up-to-date across all localities can be difficult.
+4. If you were the designer
+5. Harvest Connect would be a simple, lightweight mobile app and companion website designed for maximum accessibility (low data usage, works offline where possible, available in multiple languages.
