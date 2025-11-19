@@ -14,7 +14,6 @@ As school leader, my technology policy would focus on promoting responsible use,
 # October 14, 2025 
 The prompt i made was about how im suppose to teach kids about domain and range is algebra 1 honors because why not.  Canva interpreted it by making the quiz and teaching me about it myself as a highschool student. The quiz part of canva ai worked the best because i dont even know domain and range for real an i got 2 wrong out of 3. How i could  improve the quiz canva made is by making it more understanding like instead of bold words make it like into words understandable for incoming high schoolers. Canva ai helped very well but at the end of the day ai is wrong most of the time.
 # October 20, 2025
-
 | Name    |  Class | Seat |
 | :------- :---- | :--- |
 | Franklin | second  | 91A |
@@ -29,4 +28,8 @@ Resource Locators: Apps and websites can provide a regularly updated, centralize
 3. What challenges might exist?
 Digital Divide: Not everyone has access to a reliable internet connection, a smartphone, or a computer.Usability and Literacy: Some individuals, particularly the elderly, may face barriers related to tech literacy or the complexity of online systems.Privacy and Trust: Users may have concerns about their personal data and privacy when using third-party apps or websites to manage sensitive information.Information Overload/Accuracy: During a crisis, information can be chaotic, and ensuring that online resources are accurate and up-to-date across all localities can be difficult.
 4. If you were the designer
-5. Harvest Connect would be a simple, lightweight mobile app and companion website designed for maximum accessibility (low data usage, works offline where possible, available in multiple languages.
+Harvest Connect would be a simple, lightweight mobile app and companion website designed for maximum accessibility (low data usage, works offline where possible, available in multiple languages.
+# November 10, 2025
+During the holidays, technology has changed celebrations, enabling virtual connections but sometimes at the cost of in-person interactions. Developers should ensure holiday technology respects privacy and family time. These gadgets are often used in intimate settings, potentially misusing data or encouraging screen time. The quality of family time depends on mindful use of technology.Claim: Technology affects holidays by both improving and hindering connection.Evidence: Video calls allow distant relatives to be present. Focusing on online sharing can replace in-person interaction.Reasoning: Developers have a moral obligation to build gadgets with privacy and potential family distraction in mind.Reasoning: Unchecked tech use can lead to a "digital divide". The line between public sharing and private moments can become blurred.Reasoning: Developers should prioritize privacy and encourage mindful device use. This ensures technology serves as a tool for connection.
+# november 17, 2025
+im looking forward to thanksgiving break because no school and i get to leave.
